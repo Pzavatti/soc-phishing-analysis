@@ -7,7 +7,7 @@
 
 ## What I Learned
 
-- How to read and interpret raw email headers (SPF, DMARC, ARC)
+- How to read and interpret raw email headers (SPF, DMARC, DKIM)
 - How to identify display name spoofing vs. actual sender domain
 - Recognising spam filter evasion techniques (text poisoning,
   dictionary stuffing, encoded strings)
